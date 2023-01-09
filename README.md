@@ -3,7 +3,7 @@ Repository for testing git
 
 
 See results: 
-GitHub Pages: https://azykin.github.io/any-change/
-Hetlify:      https://any-change.netlify.app
-Vercel:       https://any-change.vercel.app/
+GitHub Pages: https://azykin.github.io/any-change/<br>
+Netlify:      https://any-change.netlify.app<br>
+Vercel:       https://any-change.vercel.app/<br>
 
